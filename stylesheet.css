@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(200,30,300);
+    background-image: url("desktop-wallpaper-3-sql-server-sql-server.jpg");
+    /*background-repeat: no-repeat;*/
+    background-size: cover;
+    color:white;
+}
+.frame{
+    
+     top: 60px; left: 581px; position: fixed; 
+}
